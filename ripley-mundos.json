@@ -1,0 +1,353 @@
+{
+    "mundos": [
+    {
+        "icon": "tecnologia",
+        "items": [
+        {
+            "evento": "",
+            "image": "tecno1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "tecno1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "tecno1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "tecno1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "tecno1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "tecnologia",
+        "order": 1,
+        "section": "TECNOLOGÍA",
+        "title": "TECNOLOGÍA"
+    },
+    {
+        "icon": "electro",
+        "items": [
+        {
+            "evento": "",
+            "image": "electro1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "electro2",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "electro2",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "electro2",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "electro2",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "electro",
+        "order": 2,
+        "section": "ELECTRO",
+        "title": "ELECTRO"
+    },
+    {
+        "icon": "hogar",
+        "items": [
+        {
+            "evento": "",
+            "image": "hogar1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "hogar2",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "hogar",
+        "order": 3,
+        "section": "HOGAR",
+        "title": "HOGAR"
+    },
+    {
+        "icon": "moda",
+        "items": [
+        {
+            "evento": "",
+            "image": "moda1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "moda1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "moda",
+        "order": 4,
+        "section": "MODA",
+        "title": "MODA"
+    },
+    {
+        "icon": "calzado",
+        "items": [
+        {
+            "evento": "",
+            "image": "calzado1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "calzado1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "accesorios",
+        "order": 5,
+        "section": "CALZADO",
+        "title": "CALZADO"
+    },
+    {
+        "icon": "deporte",
+        "items": [
+        {
+            "evento": "",
+            "image": "deporte1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "deporte1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "deporte",
+        "order": 6,
+        "section": "DEPORTE",
+        "title": "DEPORTE"
+    },
+    {
+        "icon": "belleza",
+        "items": [
+        {
+            "evento": "",
+            "image": "belleza1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "belleza1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "deporte",
+        "order": 6,
+        "section": "BELLEZA Y ACCESORIOS",
+        "title": "BELLEZA Y ACCESORIOS"
+    },
+    {
+        "icon": "infantil",
+        "items": [
+        {
+            "evento": "",
+            "image": "infantil1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        },
+        {
+            "evento": "",
+            "image": "infantil1",
+            "maxHeight": "",
+            "normal": "",
+            "price": "",
+            "subtitle": "",
+            "textButton": "",
+            "title": "",
+            "url": "https://simple.ripley.com.pe/",
+            "width": "",
+            "version": "v=1"
+        }],
+        "name": "deporte",
+        "order": 7,
+        "section": "INFANTIL Y BEBÉS",
+        "title": "INFANTIL Y BEBÉS"
+    }]
+}
